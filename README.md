@@ -49,3 +49,29 @@ find . -type f -size1033c ! -executable
 ```
 find . -size 33c -user bandit7 -group bandit6
 ```
+
+
+### Level 7
+----
+```
+grep "millionth" data.txt
+```
+
+
+### Level 8
+----
+```
+sort data.txt | uniq -u
+```
+
+### Level 9
+----
+```
+strings data.txt | grep -a "[=]*"
+```
+
+### Level 10
+----
+```
+base64 -d data.txt
+```
