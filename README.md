@@ -36,4 +36,5 @@ cat .hidden
 ----
 ```
 file -- *
+cat -- \-file
 ```
