@@ -38,3 +38,14 @@ cat .hidden
 file -- *
 cat -- \-file
 ```
+### Level 5
+----
+```
+find . -type f -size1033c ! -executable
+```
+
+### Level 6
+----
+```
+find . -size 33c -user bandit7 -group bandit6
+```
