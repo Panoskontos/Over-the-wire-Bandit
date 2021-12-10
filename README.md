@@ -32,3 +32,8 @@ cd inhere/
 ls -a
 cat .hidden
 ```
+### Level 4
+----
+```
+file -- *
+```
