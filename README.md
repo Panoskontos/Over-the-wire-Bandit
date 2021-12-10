@@ -1,4 +1,4 @@
-# Over-the-wire-Bandit Solutions
+# Over-the-wire-Bandit Solutions 0-10
 
 ### Level 0
 -----
